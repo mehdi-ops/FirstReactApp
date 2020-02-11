@@ -55,7 +55,7 @@ class Board extends Component{
     let status;
     if(winner)
     {
-      status = winner+' a gagné';
+      status = winner+' Win';
     }
     else
     {
